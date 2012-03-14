@@ -4,5 +4,4 @@ public class Main {
 		System.out.println("Spring Zlatan!");
 		System.out.println("Run Anton!Run like the wind!");
 	}
-
 }
