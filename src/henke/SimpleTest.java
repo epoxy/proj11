@@ -22,7 +22,7 @@ public class SimpleTest extends BasicGame {
     @Override
     public void render(GameContainer container, Graphics g)
             throws SlickException {
-        g.drawString("Hello here, Slick cunts is very nice!", 100, 300);
+        g.drawString("Nu funkar det för skåningen också:)", 100, 300);
     }
 
     public static void main(String[] args) {
