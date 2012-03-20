@@ -23,6 +23,7 @@ public class SimpleTest extends BasicGame {
     public void render(GameContainer container, Graphics g)
             throws SlickException {
         g.drawString("Nu funkar det, webben!!! ", 100, 300);
+        g.drawString("hello here!", 0, 100);
     }
 
     public static void main(String[] args) {
