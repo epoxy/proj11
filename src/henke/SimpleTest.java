@@ -22,7 +22,7 @@ public class SimpleTest extends BasicGame {
     @Override
     public void render(GameContainer container, Graphics g)
             throws SlickException {
-        g.drawString("Nu funkar det, men �ndra alrövare live p� webben!!! ", 100, 300);
+        g.drawString("Nu funkar det, webben!!! ", 100, 300);
     }
 
     public static void main(String[] args) {
