@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="12" height="12" tilewidth="60" tileheight="60">
+ <tileset firstgid="1" name="Wall" tilewidth="60" tileheight="60">
+  <image source="../pictureToSlick2D/tileWall.png" width="128" height="64"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="12" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjZBgFo4B8AAAEgAAC
+  </data>
+ </layer>
+</map>
