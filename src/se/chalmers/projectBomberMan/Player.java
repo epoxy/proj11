@@ -13,8 +13,8 @@ public class Player {
 			deltaY=0;
 		}
 		
-		GameTile t = gameBoard.getTile(x+deltaX, y+deltaY);
-				t.receivesPlayer(this);
+		GameTile t = GameBoard.getTile(x+deltaX, y+deltaY);
+				t.recievesPlayer(this);
 	}
 	public void movePlayer(int x, int y){
 		newX=x;
